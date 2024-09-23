@@ -1,2 +1,2 @@
-# cc17-3f-pastorskj-act4
+# CC17-3F-PastorsKL-Act4
 An interactive tip calculator.
